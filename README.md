@@ -1,8 +1,17 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=130&section=header&text=cybersec-tools&fontSize=32&animation=fadeIn" width="100%" />
-
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&height=45&lines=4%20Rust%20security%20tools%20%E2%80%94%20port%20scanner%2C%20web%20scanner%2C%20hash%20cracker%2C%20packet%20analyzer.%20Tokio%20async%2C%20crates.io)](https://github.com/BartoszOsiej/CyberForge)
+<img src="https://raw.githubusercontent.com/Hartwell-Labs/.github/main/profile/assets/hartwell-logo.svg" width="72" alt="Hartwell Labs" />
+
+## CyberForge
+
+Pentest tooling used in our own labs — recon, packet analysis, hash cracking.
+
+[![Python](https://img.shields.io/badge/Python-offensive%20tooling-F15A24?style=flat-square&logo=python)](.)
+[![License](https://img.shields.io/badge/license-MIT-F15A24?style=flat-square)](LICENSE) [![Website](https://img.shields.io/badge/site-hartwell--labs.github.io-4f46e5?style=flat-square)](https://hartwell-labs.github.io)
+
+[Website](https://hartwell-labs.github.io) · [All products](https://hartwell-labs.github.io/products/) · [Security](https://hartwell-labs.github.io/security/) · [Hack the Lab](https://github.com/Hartwell-Labs/hack-the-lab)
+
+</div>
 
 </div># 🔒 Cybersec Tools
 
@@ -170,3 +179,14 @@ be illegal in your jurisdiction.
 MIT
 
 ---
+---
+
+<div align="center">
+
+**[Hartwell Labs](https://github.com/Hartwell-Labs)** — security systems, languages and tools, built in the open.
+
+[Website](https://hartwell-labs.github.io) · [All products](https://hartwell-labs.github.io/products/) · [Security policy](https://hartwell-labs.github.io/security/) · [Report a vulnerability](https://hartwell-labs.github.io/security/)
+
+<sub>MIT License · © 2026 Hartwell Labs</sub>
+
+</div>

@@ -1,9 +1,0 @@
-[package]
-repository = "https://github.com/BartoszOsiej/CyberForge"
-name = "netrecon"
-version = "1.0.0"
-edition = "2021"
-description = "Asynchronous TCP port scanner with banner grabbing and service fingerprinting"
-license = "MIT"
-
-[dependencies]
